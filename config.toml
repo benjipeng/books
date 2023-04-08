@@ -5,3 +5,4 @@ theme = 'hugo-book'
 
 [params]
   # BookMenuBundle = '/menu'
+  BookTheme = 'auto'
