@@ -1,3 +1,7 @@
+---
+bookCollapseSection: true
+weight: 20
+---
 # Methods in Objective-C
 
 {{< hint danger >}}
