@@ -1,12 +1,14 @@
 ---
-title: Introduction
+title: CrypticPapyrus Welcome
 type: docs
 ---
-# Benji's Simple Bookshelf
+# CrypticPapyrus @ RenoCrypt
+
+
 </br>
 
 {{< hint info >}}
-Computer programming is the process of designing and writing computer programs.
+CrypticPapyrus _attempts_ to unveil _the mystic art of computer programming_, transforming the complex process of designing and scripting into a decipherable narrative. RenoCrypt aims to illuminate the path for both fledgling coders and seasoned developers, providing a fresh understanding and deeper perspective into the _evolving_ world of engineering.
 {{</hint>}}
 
 {{< columns >}}
@@ -36,5 +38,7 @@ hugo server --minify \
 {{< /columns >}}
 
 {{< hint danger >}}
-Hello, and Goodbye!
+As you venture forth from the vaults of CrypticPapyrus, may the wisdom within our cryptic scrolls enlighten your journey. Remember, every line of code is a new verse in the epic of innovation. So, until our paths intertwine in the labyrinth of knowledge once again - Farewell, brave explorer, and let the rhythm of creation guide your steps. Hello, and a meaningful goodbye! 💙
+
+`-- Benji` 🧑‍🔬🧑‍💻
 {{</hint>}}

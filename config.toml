@@ -1,6 +1,6 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'Bookshelf-AC'
+title = 'Book@RenoCrypt'
 theme = 'hugo-book' 
 
 [params]
