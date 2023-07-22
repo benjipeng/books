@@ -5,3 +5,6 @@
 [submodule "docs"]
 	path = content/bookshelf-docs
 	url = git@github.com:benjipeng/bookshelf-docs.git
+[submodule "content/docs"]
+	path = content/docs
+	url = git@github.com:benjipeng/bookshelf-docs.git
