@@ -4,7 +4,6 @@ type: docs
 ---
 # CrypticPapyrus @ RenoCrypt
 
-
 </br>
 
 {{< hint info >}}
