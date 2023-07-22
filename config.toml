@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://books.renocrypt.com'
 languageCode = 'en-us'
 title = 'Book@RenoCrypt'
 theme = 'hugo-book' 
